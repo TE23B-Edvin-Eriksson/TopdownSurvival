@@ -1,0 +1,15 @@
+Raylib
+
+
+Iden
+    Ett top-down överlevnadsspel där spelaren är en ensam överlevare i en öde vildmark. 
+    Spelaren måste samla resurser (ved, sten, mat), försvara sig mot nattliga fiender och bygga en bas för att överleva så länge som möjligt.
+
+
+
+
+Psuedokod   
+    Skapa spelarfunktioner (position, hastighet, hälsa)
+    Skapa resurser (träd, sten) på slumpmässiga platser
+    Skapa lista för byggda väggar
+    
