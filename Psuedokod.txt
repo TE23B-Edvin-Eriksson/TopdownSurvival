@@ -12,4 +12,5 @@ Psuedokod
     Skapa spelarfunktioner (position, hastighet, hälsa)
     Skapa resurser (träd, sten) på slumpmässiga platser
     Skapa lista för byggda väggar
+    Skapa Fiender
     
